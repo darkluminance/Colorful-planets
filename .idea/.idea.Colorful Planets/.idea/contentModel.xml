@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Raiyan\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Raiyan\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Colorful Planets.-846713570.00" t="ExcludeRecursive" />
+    <e p="D:\MY MADE GAMES\Colorful Planets" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BGscroll.cs" t="Include" />
+          <e p="CamRotate.cs" t="Include" />
+          <e p="ColorMatch.cs" t="Include" />
+          <e p="ColorShift.cs" t="Include" />
+          <e p="DestroybyTime.cs" t="Include" />
+          <e p="Loading.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="mainmenuscroll.cs" t="Include" />
+          <e p="Planet.cs" t="Include" />
+          <e p="PlanetSpawn.cs" t="Include" />
+        </e>
+        <e p="Simple Explosion" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Script (for Demo)" t="Include">
+              <e p="ExplosionControl.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="GraphicExplosion.cs" t="Include" />
+            <e p="light_control.cs" t="Include" />
+            <e p="PhysicalExplosion.cs" t="Include" />
+          </e>
+          <e p="Shader" t="Include">
+            <e p="Exposion.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="ForceFieldFX-master" t="Include">
+            <e p="ForceFieldFX" t="Include">
+              <e p="Assets" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="ShieldFX.shader" t="Include" />
+                </e>
+              </e>
+              <e p="ProjectSettings" t="Include">
+                <e p="ProjectVersion.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="UnitySpecialEffectWithDepth-master" t="Include">
+            <e p="Assets" t="Include">
+              <e p="ForceField" t="Include">
+                <e p="Script" t="Include">
+                  <e p="RenderDepth.cs" t="Include" />
+                </e>
+                <e p="Shader" t="Include">
+                  <e p="ForceField.shader" t="Include" />
+                </e>
+              </e>
+              <e p="RenderDepthMap" t="Include">
+                <e p="Script" t="Include">
+                  <e p="RenderDepthMap.cs" t="Include" />
+                </e>
+                <e p="Shader" t="Include">
+                  <e p="RenderDepthMapShader.shader" t="Include" />
+                </e>
+              </e>
+              <e p="ScannerEffect" t="Include">
+                <e p="Script" t="Include">
+                  <e p="ScannerEffect.cs" t="Include" />
+                </e>
+                <e p="Shader" t="Include">
+                  <e p="ScannerEffect.shader" t="Include" />
+                </e>
+              </e>
+              <e p="SeeThroughWall" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="SeeThroughWall.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Colorful Planets.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
